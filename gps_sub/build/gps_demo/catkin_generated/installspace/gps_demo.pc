@@ -1,0 +1,8 @@
+prefix=/home/zk/ZK/urban_ws/gps_sub/install
+
+Name: gps_demo
+Description: Description of gps_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

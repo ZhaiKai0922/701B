@@ -1,0 +1,2 @@
+gps_demo
+-DCATKIN_DEVEL_PREFIX=/home/zk/ZK/urban_ws/gps_sub/devel -DCMAKE_INSTALL_PREFIX=/home/zk/ZK/urban_ws/gps_sub/install -G Unix Makefiles

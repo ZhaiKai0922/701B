@@ -1,0 +1,12 @@
+[100%] Built target gps_demo_node
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /home/zk/ZK/urban_ws/gps_sub/install/_setup_util.py
+-- Installing: /home/zk/ZK/urban_ws/gps_sub/install/env.sh
+-- Installing: /home/zk/ZK/urban_ws/gps_sub/install/setup.bash
+-- Installing: /home/zk/ZK/urban_ws/gps_sub/install/local_setup.bash
+-- Installing: /home/zk/ZK/urban_ws/gps_sub/install/setup.sh
+-- Installing: /home/zk/ZK/urban_ws/gps_sub/install/local_setup.sh
+-- Installing: /home/zk/ZK/urban_ws/gps_sub/install/setup.zsh
+-- Installing: /home/zk/ZK/urban_ws/gps_sub/install/local_setup.zsh
+-- Installing: /home/zk/ZK/urban_ws/gps_sub/install/.rosinstall

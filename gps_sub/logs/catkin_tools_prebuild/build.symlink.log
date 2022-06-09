@@ -1,0 +1,12 @@
+Symlinking /home/zk/ZK/urban_ws/gps_sub/devel/./local_setup.bash
+Symlinking /home/zk/ZK/urban_ws/gps_sub/devel/./_setup_util.py
+Symlinking /home/zk/ZK/urban_ws/gps_sub/devel/./env.sh
+Symlinking /home/zk/ZK/urban_ws/gps_sub/devel/./setup.zsh
+Symlinking /home/zk/ZK/urban_ws/gps_sub/devel/./setup.sh
+Symlinking /home/zk/ZK/urban_ws/gps_sub/devel/./local_setup.sh
+Symlinking /home/zk/ZK/urban_ws/gps_sub/devel/./cmake.lock
+Symlinking /home/zk/ZK/urban_ws/gps_sub/devel/./local_setup.zsh
+Symlinking /home/zk/ZK/urban_ws/gps_sub/devel/./setup.bash
+Symlinking /home/zk/ZK/urban_ws/gps_sub/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/zk/ZK/urban_ws/gps_sub/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/zk/ZK/urban_ws/gps_sub/devel/lib/pkgconfig/catkin_tools_prebuild.pc
